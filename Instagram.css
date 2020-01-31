@@ -1,0 +1,11 @@
+a{
+	color:darkblue;
+	text-decoration: none;
+}
+.blocks{
+	display: flex;
+	justify-content: center;
+}
+.pointercursor{
+	cursor:pointer	;
+}

@@ -1,0 +1,28 @@
+.nav{
+	background-color: #3C5A99;
+	height: 80px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.input{
+	background-color: white;
+	width:35%;
+	height: 35px;
+	border-radius: 5px;
+	border:black 1px black; 
+	box-shadow: none;
+	opacity: 0.5;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.link{
+	font-size: 14px;
+	text-decoration: none;
+	color: blue;
+	margin-left:5px;
+}
+.link:hover{
+	text-decoration: underline;
+}
