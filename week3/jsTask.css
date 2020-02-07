@@ -1,0 +1,32 @@
+body{
+    padding: 50px;
+}
+#usr{
+	width: 300px;
+	height: 40px;
+	font-size: 20px;
+}
+#list{
+	margin-top: 15px;
+	padding: 0;
+	width: 300px;
+	font-size: 20px;
+}
+#addbtn{
+	background-color: green;
+	color:white;
+	width: 60px;
+	height: 40px;
+}
+#addbtn:hover{
+	cursor: pointer;
+}
+.cancel{
+	background-color: red;
+	color: white;
+	margin-left: 10px;
+	border:none;
+}
+.cancel:hover{
+	cursor: pointer;
+}
